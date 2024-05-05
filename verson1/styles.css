@@ -39,9 +39,9 @@ body {
 }
 .quiz-container {
     background-color: #f5bfbf;
-    max-width: 500px;
+    max-width: 600px;
     margin: 0 auto;
-    padding: 22px;
+    padding: 24px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     text-align: left;
