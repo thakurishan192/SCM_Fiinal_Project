@@ -31,12 +31,12 @@ h1 {
 
 .option {
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: 11px;
 }
 
 .button {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 12px 20px;
   background-color: #428bca;
   color: #fff;
   border: none;
