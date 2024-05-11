@@ -1,4 +1,6 @@
+## QUIZ PROJECT
 Welcome to our "QUIZ PROJECT"
+## TEAM MEMBERS
 
 Our team consists of 3 members:
 
@@ -7,6 +9,7 @@ Hiten Bansal(2310990691)
 Hiya Aggarwal(2310990692)
 
 Ishan Thakur(2310990694)
+## ABOUT PROJECT
 
 This is a fun and engaging quiz application built using HTML,
 
@@ -18,7 +21,7 @@ This project showcases the power of combining HTML for structure, CSS for stylin
 
 VERSION CONTROL SYSTEM
 
-Version1: 
+## Version1: 
 a. Visual Design:
   Unpleasant color theme.
 b. Login Functionality:
@@ -29,7 +32,7 @@ d. Interactivity:
     Lacks animation effects, which could enhance user engagement.
 
 
-Version2:
+## Version2:
 a. Authentication:
     Missing login container, preventing users from securely accessing the quiz.
 b. Functionality:
@@ -39,7 +42,7 @@ c. Visual Design:
 d. Interactivity:
     While animation effects are improved, there's still room for further enhancement to create a more engaging user experience.
 
-Version3:
+## Version3:
 a. Visual Design:
     Uninspired color scheme for both the quiz container and body background.
     Question and answer interface lacks engaging visual elements.
