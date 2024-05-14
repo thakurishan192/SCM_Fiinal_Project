@@ -14,12 +14,12 @@ body {
 .login-container {
     background-image: url("https://e0.pxfuel.com/wallpapers/386/919/desktop-wallpaper-website-background-website-login-page-background.jpg");
     background-color: #3498db; /* University's primary color */
-    padding: 20px;
+    padding: 22px;
     color: #fff;
     text-align: center;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-    height:500px;
+    height:600px;
     margin:150px;
     width:300px;
 }
@@ -58,8 +58,8 @@ body {
 #navbar{
     background-color: black;
     padding:50px;
-    margin: 40px;
-    top: 60px;
+    margin: 45px;
+    top: 80px;
     text-decoration: none;
 }
 #logo{

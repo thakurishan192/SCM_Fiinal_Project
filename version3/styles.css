@@ -14,21 +14,21 @@ body {
 .login-container {
     background-image: url("https://e0.pxfuel.com/wallpapers/386/919/desktop-wallpaper-website-background-website-login-page-background.jpg");
     background-color: #3498db; /* University's primary color */
-    padding: 20px;
+    padding: 22px;
     color: #fff;
     text-align: center;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-    height:500px;
+    border-radius: 12px;
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    height:600px;
     margin:150px;
-    width:300px;
+    width:320px;
 }
 
 .login-container h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 36px;
+    font-size: 42px;
     margin-bottom: 20px;
-    color: rgb(224, 167, 213); /* Heading text color */
+    color: rgb(224, 167, 214); /* Heading text color */
 }
 
 .login-container form {
@@ -43,10 +43,10 @@ body {
     color: #fff;
     padding: 14px 28px;
     border: none;
-    border-radius: 8px;
+    border-radius: 10px;
     cursor: pointer;
-    font-size: 20px;
-    margin-top: 30px;
+    font-size: 22px;
+    margin-top: 38px;
     transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
