@@ -9,6 +9,7 @@ Hiten Bansal(2310990691)
 Hiya Aggarwal(2310990692)
 
 Ishan Thakur(2310990694)
+
 ## ABOUT PROJECT
 
 This is a fun and engaging quiz application built using HTML,
