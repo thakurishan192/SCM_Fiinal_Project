@@ -53,11 +53,11 @@ d. Interactivity:
 ## Version3:
 a. Visual Design:
     Uninspired color scheme for both the quiz container and body background.
-    Question and answer interface lacks engaging visual elements.
+    Question and answer interface lacks engaging visual elements
     
 
 b. Interactivity:
-     Absence of dynamic or interesting visual effects on the question and answer interface, making the interaction potentially dull.
+     Absence of dynamic or interesting visual effects on the question and answer interface, making the interaction potentially dull
      
 ## Version4: 
 
