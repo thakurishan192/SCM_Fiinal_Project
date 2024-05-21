@@ -14,22 +14,22 @@ document.addEventListener("DOMContentLoaded", function() {
     // Define quiz questions and answers
     const quizData = [
         {
-            question: "Q1. Ministry of Road Transport and Highways of India is under:",
+            question: "Q1 Ministry of Road Transport and Highways of India is under:",
             choices: ["Dharmendra Pradhan", "Rajnath Singh", "Nitin Gadkari", "Amit Shah"],
             correctAnswer: "Nitin Gadkari"
         },
         {
-            question: "Q2. Who is the chairman of ISRO?",
+            question: "Q2 Who is the chairman of ISRO?",
             choices: ["Rahul Gandhi", "S.Somnath", "Dr.K.Sivan", "Ajit Doval"],
             correctAnswer: "S.Somnath"
         },
         {
-            question: "Q3. In which year did India win its first Cricket World Cup?",
+            question: "Q3 In which year did India win its first Cricket World Cup?",
             choices: ["1980", "1983", "1990", "1995"],
             correctAnswer: "1983"
         },
         {
-            question: "Q4. Who served as first Indian Chief of Defence Staff (CDS)?",
+            question: "Q4 Who served as first Indian Chief of Defence Staff (CDS)?",
             choices: ["Bipin Rawat", "Anil Chauhan", "Vikram Batra", "Abhinandan Vardhaman"],
             correctAnswer: "Bipin Rawat"
         }
