@@ -12,7 +12,7 @@ Ishan Thakur(2310990694)
 
 ## ABOUT PROJECT
 
-This is a fun and engaging quiz application built using HTML,
+This is a fun and engaging quiz application built using HTML
 
 CSS, and JavaScript. It challenges users with general knowledge questions and provides immediate feedback on their choices.
 
