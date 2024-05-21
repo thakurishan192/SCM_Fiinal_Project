@@ -73,4 +73,4 @@ b.Login Page Misplacement:
   The login page is not positioned correctly on the screen. This can cause layout issues and user confusion.
   
 c.Additional Issues:
-  Text formatting errors on certain pages, Image loading issues, Menu navigation problems
+  Text formatting errors on certain pages, Image loading issues, Menu navigation problems.
