@@ -24,7 +24,7 @@ Real-time Feedback: As users select their answer options, the chosen option is d
 
 This project showcases the power of combining HTML for structure, CSS for styling, and JavaScript for interactivity. It provides an engaging learning experience with its question format and immediate visual feedback.
 
-VERSION CONTROL SYSTEM
+
 
 ## Version1: 
 
