@@ -112,7 +112,7 @@ document.addEventListener("DOMContentLoaded", function() {
             loadQuestion();
             startTimer();
         } else {
-            alert("Invalid credentials. Please try again.");
+            alert("Invalid credentials. Please try again");
         }
     });
 });
